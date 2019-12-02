@@ -1,0 +1,27 @@
+[
+ {
+  "path": "/packages/iot/webclient", 
+  "ver": "latest", 
+  "name": "WEBCLIENT"
+ }, 
+ {
+  "path": "/packages/iot/cJSON", 
+  "ver": "latest", 
+  "name": "CJSON"
+ }, 
+ {
+  "path": "/packages/iot/at_device", 
+  "ver": "latest", 
+  "name": "AT_DEVICE"
+ }, 
+ {
+  "path": "/packages/tools/Chinese_font_library", 
+  "ver": "latest", 
+  "name": "CHINESE_FONT_LIBRARY"
+ }, 
+ {
+  "path": "/packages/system/fal", 
+  "ver": "latest", 
+  "name": "FAL"
+ }
+]
