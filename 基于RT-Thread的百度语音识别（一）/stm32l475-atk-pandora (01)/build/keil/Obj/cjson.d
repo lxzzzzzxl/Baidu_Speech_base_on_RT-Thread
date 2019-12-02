@@ -1,9 +1,0 @@
-.\build\keil\obj\cjson.o: packages\cJSON-latest\cJSON.c
-.\build\keil\obj\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\build\keil\obj\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\build\keil\obj\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
-.\build\keil\obj\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\build\keil\obj\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
-.\build\keil\obj\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
-.\build\keil\obj\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
-.\build\keil\obj\cjson.o: packages\cJSON-latest\cJSON.h
